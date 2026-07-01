@@ -4,6 +4,8 @@
 
 # Hi there 👋
 
+Driving innovation through research, empowering the future with AI. Deeply rooted in core AI algorithms and cutting-edge theoretical research, our organization aims to break down technological barriers and build inclusive AI solutions, co-creating the era of intelligence with developers worldwide.
+
 ## Urls
 
 - Site: [https://anyforge.github.io/](https://anyforge.github.io/)
