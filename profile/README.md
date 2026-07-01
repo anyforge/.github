@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/anyforge_logo.png" style="max-width: 500px; width: 100%;" alt="Logo">
+</p>
+
 ## Hi there 👋
 
 ## Urls
