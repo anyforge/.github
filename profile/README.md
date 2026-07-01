@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/anyforge_logo.png" style="max-width: 500px; width: 100%;" alt="Logo">
+  <img src="./images/anyforge_logo.png" style="width: 500px;" alt="Logo">
 </p>
 
 ## Hi there 👋
